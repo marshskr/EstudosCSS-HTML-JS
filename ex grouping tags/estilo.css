@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+header {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+body {
+    background-color: dimgray;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+main {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    margin: 0;
+}
+
+nav > a:hover {
+    background-color: dimgray;
+}
+
+nav > a {
+    text-decoration: none;
+    padding: 5px;
+    color: black;
+    font-weight: bold;
+}
+
+main > p {
+    text-align: justify;
+}

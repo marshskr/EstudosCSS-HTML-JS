@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+body {
+    text-align: center;
+    font-size: 30pt;
+}
+
+h1 {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+
+h2 {
+    font-family: 'Bebas Neue', cursive;
+}
+
+h3 {
+    font-family: 'Lobster', cursive;
+}
+
+h4 {
+    font-family: 'Permanent Marker', cursive;
+}

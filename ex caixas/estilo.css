@@ -1,0 +1,16 @@
+p {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    border: 5px groove green;
+    width: 300px;
+    display: block;
+    margin: auto;
+    box-shadow: 2px 2px 3px black;
+}
+
+a {
+    border: 5px dashed orange;
+}

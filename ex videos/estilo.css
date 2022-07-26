@@ -1,0 +1,58 @@
+body {
+    background: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+iframe {
+    margin: 0 auto;
+    display: block;
+    padding-top: 20px;
+}
+
+img#voltar {
+    margin: 0 auto;
+    display: block;
+    padding-top: 100px;
+    height: 50px;
+    width: 50px;
+}
+
+a#ouca {
+    text-align: center;
+    display: block;
+    margin: auto;
+    padding-top: 50px;
+    font-size: 14pt;
+    color: white;
+}
+
+a#botao {
+    width: 50px;
+    height: 50px;
+    display: block;
+    margin: auto;
+}
+
+img#perfume{
+    width: 209px;
+    height: 194px;
+    margin-left: 450px;
+
+}
+
+img#lv {
+    width: 209px;
+    height: 194px;
+    margin-left: 450px;
+}
+
+img#liquor {
+    width: 259px;
+    height: 194px;
+
+}

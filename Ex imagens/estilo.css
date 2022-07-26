@@ -1,0 +1,17 @@
+div#horario {
+    text-align: center;
+}
+
+section {
+    margin: auto;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    width: 500px;
+    height: 100px;
+    text-align: center;
+    box-shadow: 5px 5px 10px black;
+}
+
+body{
+    background: blue;
+}

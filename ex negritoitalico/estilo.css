@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(98, 98, 165);
+}
+
+h1 {
+    color: whitesmoke;
+    text-align: center;
+    text-shadow: 2px 2px black;
+    font-size: 60px;
+}
+
+section {
+    border-radius: 10px;
+    width: 500px;
+    background: whitesmoke;
+    margin: auto;
+    height: 100px;
+    box-shadow: 5px 5px 10px;
+}
+
+input#i {
+    align-self: auto;
+    margin-left: 240px;
+}
+
+input#strong {
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+input#removeri{
+    margin-left: 228px;
+}
+
+
+input#removerb {
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+
+p {
+    text-align: center;
+    margin-top: 200px;
+    font-size: 70px;
+    color: black;
+    text-shadow: 2px 2px 2px;
+}
+

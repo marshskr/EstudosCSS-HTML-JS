@@ -1,0 +1,50 @@
+@font-face {font-family: "Neuzeit Grotesk"; src: url("//db.onlinewebfonts.com/t/180ca1285125dca23ad9e2112675649c.eot"); src: url("//db.onlinewebfonts.com/t/180ca1285125dca23ad9e2112675649c.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/180ca1285125dca23ad9e2112675649c.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/180ca1285125dca23ad9e2112675649c.woff") format("woff"), url("//db.onlinewebfonts.com/t/180ca1285125dca23ad9e2112675649c.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/180ca1285125dca23ad9e2112675649c.svg#Neuzeit Grotesk") format("svg"); }
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --cordebase: #c26515;
+    --marrom: #8F4B10;
+    --corclara: #CC8C54;
+    --corescura: #422D1B;
+    --marromescuro: #422307;
+}
+
+body {
+    margin: 0;
+    color: white;
+}
+
+main {
+    background-image: url(imgcafe.jpg);
+    background-size: cover;
+    height: 90vh;
+    padding: 30px;
+}
+
+a.header {
+    font-family: 'Neuzeit Grotesk', sans-serif;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 1em;
+    margin-top: 20px;
+}
+
+a#reserva {
+    border: 1px solid white;
+}
+
+a.header:hover {
+    text-decoration: underline;
+    transition: all 0.3s ease-in-out;
+}
+
+h2#vida {
+    font-family: 'Lora', serif;
+    font-weight: 600;
+}
